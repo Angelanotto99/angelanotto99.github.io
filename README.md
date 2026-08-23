@@ -23,8 +23,8 @@ An on-device, AI security app for Android. Scan any **app (APK / APKS / XAPK)** 
 └── LICENSE
 ```
 
-- **APK:** `app/v1.0.0/Sentinel-v1.0.0.apk` — install on Android 7.0+ (API 24).
-- **Source code:** `app/v1.0.0/Sentinel-app-source-v1.0.0.zip` — app source only (src/, res/, AndroidManifest.xml).
+- **APK:** `app/v1.1.0/Sentinel-v1.0.0.apk` — install on Android 7.0+ (API 24).
+- **Source code:** `app/v1.1.0/Sentinel-app-source-v1.0.0.zip` — app source only (src/, res/, AndroidManifest.xml).
 
 Each version gets its own subfolder under `app/`. Download, unzip, and build with your preferred Android toolchain.
 
