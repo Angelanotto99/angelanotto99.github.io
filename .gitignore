@@ -1,0 +1,19 @@
+# build artifacts
+build/
+bin/
+out/
+gen/
+*.apk
+*.ap_
+*.dex
+*.class
+*.iml
+.gradle/
+local.properties
+# keystore (never commit)
+*.keystore
+*.jks
+# os / editor
+.DS_Store
+.idea/
+*.swp
