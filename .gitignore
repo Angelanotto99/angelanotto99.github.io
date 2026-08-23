@@ -3,7 +3,6 @@ build/
 bin/
 out/
 gen/
-*.apk
 *.ap_
 *.dex
 *.class
